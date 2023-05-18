@@ -2,12 +2,6 @@
 .jumbotron{
     min-height: 400px;
 }
-.contact{
-    min-height: 400px;
-}
-.location{
-    min-height: 300px;
-}
 .copyright{
     min-height: 100px;
 }
@@ -43,4 +37,7 @@ textarea{
     border-radius: 0;
     border:0;
     border-bottom: 1px solid black;
+}
+.bgc-info{
+    background-color: #3A546D;
 }
