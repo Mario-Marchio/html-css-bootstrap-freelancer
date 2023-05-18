@@ -1,10 +1,4 @@
 
-.jumbotron{
-    min-height: 400px;
-}
-.copyright{
-    min-height: 100px;
-}
 .no-grow{
     flex-grow: 0;
 }
