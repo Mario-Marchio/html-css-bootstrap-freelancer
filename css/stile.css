@@ -2,12 +2,6 @@
 .jumbotron{
     min-height: 400px;
 }
-main{
-    min-height: 2000px;
-}
-.about{
-    min-height: 400px;
-}
 .contact{
     min-height: 400px;
 }
@@ -31,6 +25,12 @@ main{
 }
 .white-line{
     border: 2px solid white;
+    width: 15%;
+    height: 2px;
+    margin-top:10px;
+}
+.black-line{
+    border: 2px solid black;
     width: 15%;
     height: 2px;
     margin-top:10px;
